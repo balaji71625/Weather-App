@@ -19,7 +19,7 @@ The app fetches real-time weather data using the free OpenWeatherMap API.
 Completed ✅
 
 ## Live Demo
-(Will be added after deployment)
+https://balaji71625.github.io/Weather-App/
 
 ## Author
 V. Balaji
